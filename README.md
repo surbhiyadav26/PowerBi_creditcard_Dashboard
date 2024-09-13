@@ -7,7 +7,7 @@ Credit card financial dashboard using Power BI:
 
 See Full dashboard Here-[CreditCard_Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiOTZjOTdkM2ItNGNiZi00YmQwLThjZWMtZjlmOWU1MmE2ODdhIiwidCI6ImQ1MTFhNzlhLTI4MzgtNDlmZS04MDJjLWVhYjhjNzk4NjBjZSJ9)]
 
-(Creditcard_customerSS.png)
+
 
 
 
